@@ -36,9 +36,9 @@ def ask_question(question):
     response = input("Sua resposta (A, B, C, ou D): ")
     response = response.upper()
     if response not in ["A", "B", "C", "D"]:
-        print("====================")
-        print("Resposta invalida.")
-        print("====================")
+        print("============================================")
+        print("Resposta invalida. Tente entre A, B, C ou D.")
+        print("============================================")
         return ask_question(question)
     return response
 
@@ -50,7 +50,7 @@ def check_answer(response, correct):
         return 1
     else:
         print("========================================")
-        print("Incorreto. a alternativa correta é a", correct)
+        print("Incorreto. A alternativa correta é a", correct)
         print("========================================")
         return 0
 
