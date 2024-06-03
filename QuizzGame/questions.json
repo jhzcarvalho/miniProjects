@@ -1,0 +1,57 @@
+{
+  "question_list": [
+    {
+      "active": true,
+      "question": "Qual a capital da Fran\u00e7a?",
+      "options": ["A) Berlim", "B) Paris", "C) Londres", "D) Roma"],
+      "correct": "B"
+    },
+    {
+      "active": true,
+      "question": "Qual o menor planeta do sistema solar?",
+      "options": ["A) Merc\u00fario", "B) Venus", "C) Terra", "D) Marte"],
+      "correct": "A"
+    },
+    {
+      "active": true,
+      "question": "Quantos estados tem o Brasil?",
+      "options": ["A) 26", "B) 27", "C) 24", "D) 25"],
+      "correct": "A"
+    },
+    {
+      "active": true,
+      "question": "Quem \u00e9 considerado o pai da computa\u00e7\u00e3o?",
+      "options": [
+        "A) Freddie mercury",
+        "B) Alan turing",
+        "C) Steve Jobs",
+        "D) Linus Torvalds"
+      ],
+      "correct": "B"
+    },
+    {
+      "active": true,
+      "question": "Quantos continentes a terra possui?",
+      "options": ["A) 8", "B) 5", "C) 6", "D) 7"],
+      "correct": "C"
+    },
+    {
+      "active": true,
+      "question": "Qual a capital do Brasil?",
+      "options": [
+        "A) Rio de Janeiro",
+        "B) Acre",
+        "C) S\u00e3o Paulo",
+        "D) Bras\u00edlia"
+      ],
+      "correct": "D"
+    },
+    {
+      "active": false,
+      "question": "Qual pais criou o primeiro aviao?",
+      "options": ["A) Estados Unidos", "B) China", "C) Alemanha", "D) Brasil"],
+      "correct": "D"
+    }
+  ],
+  "num_active": 6
+}
